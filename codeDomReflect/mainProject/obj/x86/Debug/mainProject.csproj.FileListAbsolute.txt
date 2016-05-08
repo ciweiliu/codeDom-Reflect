@@ -1,0 +1,12 @@
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\mainProject.exe.config
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\mainProject.exe
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\mainProject.pdb
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\markPropertys.dll
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\markPropertys.pdb
+E:\Program Projects\codeDomReflect\mainProject\obj\x86\Debug\mainProject.csprojResolveAssemblyReference.cache
+E:\Program Projects\codeDomReflect\mainProject\obj\x86\Debug\mainProject.exe
+E:\Program Projects\codeDomReflect\mainProject\obj\x86\Debug\mainProject.pdb
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\personClass.dll
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\someInterface.dll
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\personClass.pdb
+E:\Program Projects\codeDomReflect\mainProject\bin\Debug\someInterface.pdb

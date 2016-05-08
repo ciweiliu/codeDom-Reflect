@@ -1,0 +1,8 @@
+.codeDomReflect/mainProject/bin/*
+.codeDomReflect/mainProject/obj/*
+.codeDomReflect/markPropertys/bin/*
+.codeDomReflect/markPropertys/obj/*
+.codeDomReflect/personClass/bin/*
+.codeDomReflect/personClass/obj/*
+.codeDomReflect/someInterface/bin/*
+.codeDomReflect/someInterface/obj/*

@@ -1,0 +1,9 @@
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\personClass.dll
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\personClass.pdb
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\markPropertys.dll
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\someInterface.dll
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\markPropertys.pdb
+E:\Program Projects\codeDomReflect\personClass\bin\Debug\someInterface.pdb
+E:\Program Projects\codeDomReflect\personClass\obj\x86\Debug\personClass.csprojResolveAssemblyReference.cache
+E:\Program Projects\codeDomReflect\personClass\obj\x86\Debug\personClass.dll
+E:\Program Projects\codeDomReflect\personClass\obj\x86\Debug\personClass.pdb

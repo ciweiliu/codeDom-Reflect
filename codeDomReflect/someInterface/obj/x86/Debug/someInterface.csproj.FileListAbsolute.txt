@@ -1,0 +1,4 @@
+E:\Program Projects\codeDomReflect\someInterface\bin\Debug\someInterface.dll
+E:\Program Projects\codeDomReflect\someInterface\bin\Debug\someInterface.pdb
+E:\Program Projects\codeDomReflect\someInterface\obj\x86\Debug\someInterface.dll
+E:\Program Projects\codeDomReflect\someInterface\obj\x86\Debug\someInterface.pdb

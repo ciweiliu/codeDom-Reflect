@@ -1,0 +1,4 @@
+E:\Program Projects\codeDomReflect\markPropertys\bin\Debug\markPropertys.dll
+E:\Program Projects\codeDomReflect\markPropertys\bin\Debug\markPropertys.pdb
+E:\Program Projects\codeDomReflect\markPropertys\obj\x86\Debug\markPropertys.dll
+E:\Program Projects\codeDomReflect\markPropertys\obj\x86\Debug\markPropertys.pdb
